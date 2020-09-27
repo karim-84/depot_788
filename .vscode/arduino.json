@@ -1,0 +1,6 @@
+{
+    "sketch": "dhtlib_gpa788.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM6",
+    "output": ".\\build"
+}
